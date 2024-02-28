@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;  
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4; 
+    color: #333; 
+}
+
+header {
+    background-color: #204060; 
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed; /* Keep it at the bottom */
+    bottom: 0;
+    width: 100%;
+}
+
+#main-image {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 700px;  /* Example: set the width */
+   height: 600px; /* Example: set the height */
+}
+
